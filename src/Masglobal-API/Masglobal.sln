@@ -3,23 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-API", "Masglobal-API.csproj", "{0ACA8ADD-F978-480D-9ADA-0349EFD994FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masglobal-API", "Masglobal-API.csproj", "{0ACA8ADD-F978-480D-9ADA-0349EFD994FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-Application", "..\Masglobal-Application\Masglobal-Application.csproj", "{0565FB2E-3CD5-4D3A-9313-3B495C057A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masglobal-Application", "..\Masglobal-Application\Masglobal-Application.csproj", "{0565FB2E-3CD5-4D3A-9313-3B495C057A45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-Persistance", "..\Masglobal-Persistance\Masglobal-Persistance.csproj", "{61F4C952-D419-473A-9E6B-ADD25C878A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masglobal-Persistance", "..\Masglobal-Persistance\Masglobal-Persistance.csproj", "{61F4C952-D419-473A-9E6B-ADD25C878A26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-Infrastructure", "..\Masglobal-Infrastructure\Masglobal-Infrastructure.csproj", "{85D58BCA-18F9-4D81-9A2E-F177791AA169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masglobal-Infrastructure", "..\Masglobal-Infrastructure\Masglobal-Infrastructure.csproj", "{85D58BCA-18F9-4D81-9A2E-F177791AA169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-IOC", "..\Masglobal-IOC\Masglobal-IOC.csproj", "{014CFA78-28B9-42C1-AB59-B0893BE6D9FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masglobal-IOC", "..\Masglobal-IOC\Masglobal-IOC.csproj", "{014CFA78-28B9-42C1-AB59-B0893BE6D9FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{706BDF16-1840-4C03-9CDF-834B7707FAE3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5B370E5E-3BF4-45A0-857E-41F1CB3797AE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-UNIT-TEST", "..\Masglobal-UNIT-TEST\Masglobal-UNIT-TEST.csproj", "{C42DF7E9-B210-414B-AF8C-201711D5AA46}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client-app", "client-app", "{A1C07C77-C059-44DD-AFB9-CE18200C0687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masglobal-tests", "..\Masglobal-tests\Masglobal-tests.csproj", "{95F37C44-32B2-412E-82E1-0D2D35FB15C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +45,10 @@ Global
 		{014CFA78-28B9-42C1-AB59-B0893BE6D9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{014CFA78-28B9-42C1-AB59-B0893BE6D9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{014CFA78-28B9-42C1-AB59-B0893BE6D9FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C42DF7E9-B210-414B-AF8C-201711D5AA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C42DF7E9-B210-414B-AF8C-201711D5AA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C42DF7E9-B210-414B-AF8C-201711D5AA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C42DF7E9-B210-414B-AF8C-201711D5AA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F37C44-32B2-412E-82E1-0D2D35FB15C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F37C44-32B2-412E-82E1-0D2D35FB15C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F37C44-32B2-412E-82E1-0D2D35FB15C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F37C44-32B2-412E-82E1-0D2D35FB15C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,7 +59,7 @@ Global
 		{61F4C952-D419-473A-9E6B-ADD25C878A26} = {706BDF16-1840-4C03-9CDF-834B7707FAE3}
 		{85D58BCA-18F9-4D81-9A2E-F177791AA169} = {706BDF16-1840-4C03-9CDF-834B7707FAE3}
 		{014CFA78-28B9-42C1-AB59-B0893BE6D9FA} = {706BDF16-1840-4C03-9CDF-834B7707FAE3}
-		{C42DF7E9-B210-414B-AF8C-201711D5AA46} = {5B370E5E-3BF4-45A0-857E-41F1CB3797AE}
+		{95F37C44-32B2-412E-82E1-0D2D35FB15C8} = {706BDF16-1840-4C03-9CDF-834B7707FAE3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {86CF6A6F-7B0F-4259-A975-21228282F5BF}
