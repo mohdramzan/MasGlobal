@@ -27,10 +27,13 @@ namespace Masglobal
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
            ConfigureServiceExtensions.ConfigureServicesInAssembly(services, Configuration);
             services.AddMediatR(typeof(Startup));
-
+ 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,6 +50,7 @@ namespace Masglobal
             }
            
             app.UseHttpsRedirection();
+            app.UseCors("CorsPolicy");
             app.UseMvc();
         }
     }

@@ -5,12 +5,14 @@ using System.Threading.Tasks;
 using Masglobal_Application.CQRS.Query;
 using Masglobal_Infrastructure.Dto_s;
 using MediatR;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Masglobal.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("CorsPolicy")]
     public class EmployeesController : ControllerBase
     {
 

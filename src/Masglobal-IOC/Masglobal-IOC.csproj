@@ -11,6 +11,7 @@
     <PackageReference Include="MediatR.Extensions.Autofac.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="MediatR.Extensions.FluentValidation.AspNetCore" Version="1.1.1" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.2.0" />
 
   </ItemGroup>
