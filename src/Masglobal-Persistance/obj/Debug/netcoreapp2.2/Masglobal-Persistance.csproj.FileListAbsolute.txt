@@ -1,0 +1,9 @@
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\bin\Debug\netcoreapp2.2\Masglobal-Persistance.deps.json
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\bin\Debug\netcoreapp2.2\Masglobal-Persistance.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\bin\Debug\netcoreapp2.2\Masglobal-Persistance.pdb
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\obj\Debug\netcoreapp2.2\Masglobal-Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\obj\Debug\netcoreapp2.2\Masglobal-Persistance.AssemblyInfoInputs.cache
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\obj\Debug\netcoreapp2.2\Masglobal-Persistance.AssemblyInfo.cs
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\obj\Debug\netcoreapp2.2\Masglobal-Persistance.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\obj\Debug\netcoreapp2.2\Masglobal-Persistance.pdb
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-Persistance\obj\Debug\netcoreapp2.2\Masglobal-Persistance.csprojAssemblyReference.cache

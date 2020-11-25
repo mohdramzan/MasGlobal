@@ -1,0 +1,16 @@
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-IOC.deps.json
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-IOC.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-IOC.pdb
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-Application.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-Infrastructure.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-Persistance.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-Application.pdb
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-Infrastructure.pdb
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\bin\Debug\netcoreapp2.2\Masglobal-Persistance.pdb
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.csprojAssemblyReference.cache
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.csproj.CoreCompileInputs.cache
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.AssemblyInfoInputs.cache
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.AssemblyInfo.cs
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.csproj.CopyComplete
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.dll
+C:\Users\Ramzan Khan\source\repos\Masglobal\src\Masglobal-IOC\obj\Debug\netcoreapp2.2\Masglobal-IOC.pdb

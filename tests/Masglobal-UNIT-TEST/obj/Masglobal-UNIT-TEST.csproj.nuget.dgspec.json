@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal-UNIT-TEST\\Masglobal-UNIT-TEST.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal-UNIT-TEST\\Masglobal-UNIT-TEST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal-UNIT-TEST\\Masglobal-UNIT-TEST.csproj",
+        "projectName": "Masglobal-UNIT-TEST",
+        "projectPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal-UNIT-TEST\\Masglobal-UNIT-TEST.csproj",
+        "packagesPath": "C:\\Users\\Ramzan Khan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal-UNIT-TEST\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ramzan Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

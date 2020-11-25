@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Infrastructure\\Masglobal-Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Infrastructure\\Masglobal-Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Infrastructure\\Masglobal-Infrastructure.csproj",
+        "projectName": "Masglobal-Infrastructure",
+        "projectPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Infrastructure\\Masglobal-Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ramzan Khan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ramzan Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Persistance\\Masglobal-Persistance.csproj": {
+                "projectPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Persistance\\Masglobal-Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Persistance\\Masglobal-Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Persistance\\Masglobal-Persistance.csproj",
+        "projectName": "Masglobal-Persistance",
+        "projectPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Persistance\\Masglobal-Persistance.csproj",
+        "packagesPath": "C:\\Users\\Ramzan Khan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ramzan Khan\\source\\repos\\Masglobal\\src\\Masglobal-Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ramzan Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.SelfHost": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
